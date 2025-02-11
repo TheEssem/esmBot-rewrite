@@ -72,6 +72,7 @@
       "meme": "Generates a meme from an image (separate top/bottom text with a comma)",
       "memecenter": "Adds the MemeCenter watermark to an image",
       "motivate": "Generates a motivational poster",
+      "nerd": "Makes nerd say an image",
       "pixelate": "Pixelates an image",
       "reddit": "Adds a Reddit watermark to an image",
       "reverse": "Reverses an image sequence",
@@ -215,6 +216,9 @@
       },
       "motivate": {
         "font": "font"
+      },
+      "nerd": {
+        "resize": "resize"
       },
       "slow": {
         "multiplier": "multiplier"
@@ -381,6 +385,9 @@
       "motivate": {
         "font": "Specify the font you want to use (default: times)"
       },
+      "nerd": {
+        "resize": "Resize the image to fit completely inside the speech bubble (default: false)"
+      },
       "slow": {
         "multiplier": "Set the speed multiplier (default: 2)"
       },
@@ -517,6 +524,7 @@
       "meme": "meme",
       "memecenter": "memecenter",
       "motivate": "motivate",
+      "nerd": "nerd",
       "pixelate": "pixelate",
       "reddit": "reddit",
       "reverse": "reverse",
@@ -594,6 +602,7 @@
       "magik": "You need to provide an image/GIF to add some magik!",
       "meme": "You need to provide an image/GIF to generate a meme!",
       "memecenter": "You need to provide an image/GIF to add a MemeCenter watermark!",
+      "nerd": "You need to provide an image/GIF for nerd to say!",
       "motivate": "You need to provide an image/GIF to generate a motivational poster!",
       "pixelate": "You need to provide an image/GIF to pixelate!",
       "reverse": "You need to provide an image/GIF to reverse!",

@@ -82,6 +82,7 @@ const std::map<std::string,
                    {"meme", &Meme},
                    {"mirror", &Mirror},
                    {"motivate", &Motivate},
+                   {"nerd", &Nerd},
 #ifdef ZXING_ENABLED
                    {"qrread", &QrRead},
 #endif
