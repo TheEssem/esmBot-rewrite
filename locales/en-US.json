@@ -625,7 +625,7 @@
     "noText": {
       "homebrew": "You need to provide some text to make a Homebrew Channel edit!",
       "sonic": "You need to provide some text to make a Sonic meme!",
-      "qrcreate": "You need to provide some text to generate a QR code!",
+      "qrcreate": "You need to provide some text that is less than 2953 bytes to generate a QR code!",
       "caption": "You need to provide some text to add a caption!",
       "caption2": "You need to provide some text to add a caption!",
       "flag": "You need to provide an emoji of a flag to overlay!",
