@@ -30,6 +30,7 @@ set(SOURCE_FILES natives/blur.cc
   natives/meme.cc
   natives/mirror.cc
   natives/motivate.cc
+  natives/nerd.cc
   natives/reddit.cc
   natives/resize.cc
   natives/reverse.cc

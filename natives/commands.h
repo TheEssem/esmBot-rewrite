@@ -28,6 +28,7 @@ declare_input_func(Magik);
 declare_input_func(Meme);
 declare_input_func(Mirror);
 declare_input_func(Motivate);
+declare_input_func(Nerd);
 #if ZXING_ENABLED
 declare_input_func(QrRead);
 #endif
